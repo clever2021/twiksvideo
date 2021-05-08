@@ -1,0 +1,28 @@
+footer {
+    background-color: #2D333B;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    .di94sz {
+        width: 95%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .dolo94 {
+            width: 20%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 60px;
+            img {
+                height: 32px;
+                width: 32px;
+                border-radius: 50%;
+            }
+        }
+    }
+}
